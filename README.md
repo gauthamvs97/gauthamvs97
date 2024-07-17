@@ -2,7 +2,7 @@
 
 🌐 Full-Stack Developer | 🎮 Gamer (PC/PS5) | 📖 Avid Reader (Mystery/Thriller Enthusiast) 
 
-I am a Software Engineer with 3 years of professional experience in designing, developing, and implementing Java/Python based application.
+I am a Software Engineer with 3 years of professional experience in designing, developing, and implementing Java or Python based applications.
 
 - 🎓 M.S. - CS (University of Houston) and B.Tech. - IT (Anna University, India)
 - 🌱 I’m currently learning Angular and System Design
